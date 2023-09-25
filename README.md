@@ -1,5 +1,5 @@
 # 💫 About Me:
-I graduated from Hacettepe University Department of Statistics.<br>I love to go over problems, analyze them, and bring creative and <br>different perspectives. I have worked in the energy sector for 9 years on data analysis, <br>forecasting, reporting and business development.<br>I interested in customer consumption, energy production estimations and reporting processes.<br>Later,I took part in taking requests improvement and development for supplier invoicing processes, <br>analysis and preparation of business justifications, completion of test processes in projects, <br>supplier invoicing estimation and analysis processes.
+I graduated from Hacettepe University Department of Statistics.<br>I love to go over problems, analyze them, and bring creative and <br>different perspectives. I have worked in the energy sector for 9 years on data analysis, <br>forecasting, reporting and business development.<br>I was interested in customer consumption, energy production estimations and reporting processes.<br>Later,I took part in taking requests improvement and development for supplier invoicing processes, <br>analysis and preparation of business justifications, completion of test processes in projects, <br>supplier invoicing estimation and analysis processes.
 
 
 ## 🌐 Socials:
